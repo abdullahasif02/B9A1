@@ -1,0 +1,29 @@
+
+.hero{
+background-image: url('../image/Banner\ Image.png');
+width: 1320px;
+height: 600px;
+border-radius: 16px;
+
+
+}
+.hero h6{
+    color: #FFF;
+text-align: center;
+font-family: Merriweather;
+font-size: 32px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+padding: 30px;
+}
+.hero h1{
+    color: #FFF;
+text-align: center;
+font-family: Merriweather;
+font-size: 72px;
+font-style: normal;
+font-weight: 900;
+line-height: 95px; /* 131.944% */
+    
+}
